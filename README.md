@@ -96,17 +96,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kavingaaluvihare2001@gmail.com)
 
 </div>
-
-📊 GitHub Stats
+GitHub Stats
 <div align="center">
 🔥 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="80%" /> <br>
 📈 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-💡 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
-## 🏆 GitHub Trophies
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="80%" /> <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
