@@ -97,9 +97,9 @@
 
 </div>
 <div align="center"> <br>
-🔥 Overall Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br>
-📈 Streak Stats
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /> <br>
 </div>
 
