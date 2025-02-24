@@ -103,7 +103,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /> <br>
 </div>
 
+
+<br/>
+<h3>🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" /> </div>
+
 <div align="center">
+
+
+
 
 ### 🌟 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
