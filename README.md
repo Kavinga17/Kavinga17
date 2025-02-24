@@ -117,6 +117,8 @@
 🎯 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
 
 📜 Refresh the page for a new quote!
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> <br>
 </div>
 
 <div align="center">
