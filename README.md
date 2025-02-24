@@ -114,8 +114,7 @@
 
 
 <br/>
-🎯 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
-
+<h6>🎯 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." </h6>
 </div>
 
 <div align="center">
