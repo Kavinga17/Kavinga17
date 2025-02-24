@@ -16,6 +16,14 @@
 - 📚 Diving deep into **Oracle** and object-relational database concepts
 - 🌱 Constantly expanding my tech arsenal with cutting-edge technologies
 
+## 👨‍💻 About Me 
+
+- 🚀 Passionate **Full Stack Developer** creating innovative solutions
+- 🌍 Based in **Sri Lanka** 🇱🇰, known as **"Kavi"** in the dev community
+- 🎓 Studying **Computer Science**, currently exploring **Advanced Database Concepts**
+- 💡 Interests: **Software Architecture, Cloud Computing, AI/ML**
+- 🔥 Life motto: *Code with passion, debug with patience ⚡*
+- 🏆 Challenge: *Always pushing the boundaries of what's possible with code*
 
 
 
