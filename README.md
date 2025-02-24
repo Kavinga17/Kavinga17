@@ -1,134 +1,107 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kavinga Aluvihare - Full Stack Developer</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-</head>
-<body class="bg-gradient-to-r from-gray-900 to-gray-800 text-white min-h-screen">
-    <!-- Hero Section -->
-    <header class="container mx-auto px-4 py-16 text-center">
-        <div class="animate-fade-in">
-            <img src="https://github.com/kavinga17.png" alt="Kavinga Aluvihare" 
-                 class="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-blue-500 shadow-lg">
-            <h1 class="text-4xl font-bold mb-4">Hi 👋, I'm Kavinga Aluvihare</h1>
-            <h2 class="text-xl text-blue-400 mb-6">Building the Future: Full-Stack Developer from Sri Lanka</h2>
-            <div class="flex justify-center space-x-4">
-                <a href="https://linkedin.com/in/kavinga17" class="bg-blue-600 px-4 py-2 rounded-lg hover:bg-blue-700 transition">
-                    <i class="fab fa-linkedin mr-2"></i>LinkedIn
-                </a>
-                <a href="https://github.com/kavinga17" class="bg-gray-700 px-4 py-2 rounded-lg hover:bg-gray-600 transition">
-                    <i class="fab fa-github mr-2"></i>GitHub
-                </a>
-                <a href="mailto:kavingaaluvihare2001@gmail.com" class="bg-red-600 px-4 py-2 rounded-lg hover:bg-red-700 transition">
-                    <i class="fas fa-envelope mr-2"></i>Email
-                </a>
-            </div>
-        </div>
-    </header>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kavinga%20Aluvihare&fontSize=70&animation=fadeIn&fontAlignY=35)
 
-    <!-- Current Focus Section -->
-    <section class="container mx-auto px-4 py-12">
-        <h2 class="text-2xl font-bold mb-8 text-center">🎯 Current Focus</h2>
-        <div class="grid md:grid-cols-3 gap-6">
-            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
-                <div class="text-blue-400 text-4xl mb-4">🔭</div>
-                <h3 class="font-bold mb-2">AutoSched Project</h3>
-                <p class="text-gray-300">Working on MERN Stack development</p>
-            </div>
-            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
-                <div class="text-blue-400 text-4xl mb-4">🌱</div>
-                <h3 class="font-bold mb-2">Learning Oracle</h3>
-                <p class="text-gray-300">Exploring object-relational databases</p>
-            </div>
-            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
-                <div class="text-blue-400 text-4xl mb-4">⚡</div>
-                <h3 class="font-bold mb-2">Fun Fact</h3>
-                <p class="text-gray-300">People call me Kavi!</p>
-            </div>
-        </div>
-    </section>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-    <!-- Skills Section -->
-    <section class="container mx-auto px-4 py-12">
-        <h2 class="text-2xl font-bold mb-8 text-center">🛠️ Technologies & Tools</h2>
-        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
-            <!-- Languages -->
-            <div class="bg-gray-800 p-4 rounded-lg text-center hover:bg-gray-700 transition">
-                <i class="fab fa-js text-yellow-400 text-3xl mb-2"></i>
-                <p>JavaScript</p>
-            </div>
-            <div class="bg-gray-800 p-4 rounded-lg text-center hover:bg-gray-700 transition">
-                <i class="fab fa-python text-blue-400 text-3xl mb-2"></i>
-                <p>Python</p>
-            </div>
-            <div class="bg-gray-800 p-4 rounded-lg text-center hover:bg-gray-700 transition">
-                <i class="fab fa-java text-red-400 text-3xl mb-2"></i>
-                <p>Java</p>
-            </div>
-            <div class="bg-gray-800 p-4 rounded-lg text-center hover:bg-gray-700 transition">
-                <i class="fab fa-php text-purple-400 text-3xl mb-2"></i>
-                <p>PHP</p>
-            </div>
-            <div class="bg-gray-800 p-4 rounded-lg text-center hover:bg-gray-700 transition">
-                <i class="fab fa-react text-blue-400 text-3xl mb-2"></i>
-                <p>React</p>
-            </div>
-            <div class="bg-gray-800 p-4 rounded-lg text-center hover:bg-gray-700 transition">
-                <i class="fab fa-node text-green-400 text-3xl mb-2"></i>
-                <p>Node.js</p>
-            </div>
-        </div>
-    </section>
+# 🚀 Full-Stack Developer | Tech Enthusiast | Code Artisan
 
-    <!-- Projects Section -->
-    <section class="container mx-auto px-4 py-12">
-        <h2 class="text-2xl font-bold mb-8 text-center">🚀 Featured Projects</h2>
-        <div class="grid md:grid-cols-2 gap-6">
-            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
-                <h3 class="font-bold text-xl mb-2">AutoSched</h3>
-                <p class="text-gray-300 mb-4">A comprehensive scheduling solution built with MERN stack.</p>
-                <div class="flex space-x-2">
-                    <span class="bg-blue-600 px-2 py-1 rounded text-sm">React</span>
-                    <span class="bg-green-600 px-2 py-1 rounded text-sm">Node.js</span>
-                    <span class="bg-yellow-600 px-2 py-1 rounded text-sm">MongoDB</span>
-                </div>
-            </div>
-            <!-- Add more project cards as needed -->
-        </div>
-    </section>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+Future%2C+One+Line+at+a+Time;Passionate+Full-Stack+Developer;Learning+%26+Growing+Every+Day)](https://git.io/typing-svg)
 
-    <!-- Stats Section -->
-    <section class="container mx-auto px-4 py-12">
-        <h2 class="text-2xl font-bold mb-8 text-center">📊 GitHub Stats</h2>
-        <div class="grid md:grid-cols-2 gap-6">
-            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
-                <img src="https://github-readme-stats.vercel.app/api?username=kavinga17&theme=radical&show_icons=true" 
-                     alt="GitHub Stats" class="w-full">
-            </div>
-            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=radical" 
-                     alt="GitHub Streak" class="w-full">
-            </div>
-        </div>
-    </section>
+</div>
 
-    <!-- Footer -->
-    <footer class="container mx-auto px-4 py-8 text-center text-gray-400">
-        <p>© 2024 Kavinga Aluvihare. All rights reserved.</p>
-        <div class="flex justify-center space-x-4 mt-4">
-            <a href="https://linkedin.com/in/kavinga17" class="hover:text-blue-400 transition">
-                <i class="fab fa-linkedin text-2xl"></i>
-            </a>
-            <a href="https://fb.com/kavinga17" class="hover:text-blue-400 transition">
-                <i class="fab fa-facebook text-2xl"></i>
-            </a>
-            <a href="https://instagram.com/kavinga17" class="hover:text-blue-400 transition">
-                <i class="fab fa-instagram text-2xl"></i>
-            </a>
-        </div>
-    </footer>
-</body>
-</html>
+## 🎯 Currently Working On
+
+- 🔧 **AutoSched Project** - Leveraging MERN Stack for innovative scheduling solutions
+- 📚 Diving deep into **Oracle** and object-relational database concepts
+- 🌱 Constantly expanding my tech arsenal with cutting-edge technologies
+
+## 💫 About Me
+
+```javascript
+const kavinga = {
+    pronouns: "He" | "Him",
+    location: "Sri Lanka 🌴",
+    currentFocus: "Full Stack Development",
+    funFact: "People call me Kavi!",
+    code: ["JavaScript", "Python", "Java", "C++", "PHP", "Kotlin"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "React Native"],
+            css: ["Tailwind CSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL", "MS SQL", "Oracle"],
+        tools: ["Git", "Postman", "Docker", "Firebase", "Azure"]
+    },
+    currentLearning: "Advanced Database Concepts",
+    motto: "Code with passion, debug with patience"
+};
+```
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinga17)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavinga17)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavinga17)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kavingaaluvihare2001@gmail.com)
+
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinga17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinga17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+<div align="center">
+
+### 🌟 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kavinga17&icon=5&color=1)](https://visitcount.itsvg.in)
+
+</div>
+
+<div align="center">
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
