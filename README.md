@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=c9d1f5&center=true&vCenter=true&width=700&lines=+;+;+" height="20"/>
-
 # 👋 Hi, I'm Kavinga Aluvihare
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B8FF7&center=true&vCenter=true&width=650&lines=BI+%26+Data+Analyst+%7C+Power+BI+Developer;SQL+Expert+%7C+Python+Analyst;Healthcare+%7C+Consulting+%7C+Analytics;Turning+Raw+Data+into+Real+Decisions+📈" />
+### 📊 BI & Data Analyst &nbsp;|&nbsp; Power BI · SQL · Python · Looker Studio
+#### Healthcare · Consulting · Analytics &nbsp;—&nbsp; Turning Raw Data into Real Decisions
 
 <br/>
 
@@ -140,6 +139,7 @@
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+---
+*© Kavinga Aluvihare · Malabe, Sri Lanka 🇱🇰*
 
 </div>
