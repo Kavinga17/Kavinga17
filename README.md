@@ -22,7 +22,7 @@
 
 🏢 **Executive Data Analyst** @ Medfuture Healthcare  
 📍 Malabe, Sri Lanka 🇱🇰  
-🎓 BSc (Hons) IT — SLIIT  
+🎓 BSc (Hons) IT — SLIIT (GPA 3.1/4.0)  
 💼 Deloitte → Nawaloka Hospitals → Medfuture  
 
 <br>
@@ -113,11 +113,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Total%20Commits-199-7B8FF7?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars%20Earned-2-F2C811?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/Pull%20Requests-5-4285F4?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-10+-217346?style=for-the-badge&logo=github)
 
 </div>
 
