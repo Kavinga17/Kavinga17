@@ -19,10 +19,9 @@
 
 ### 👨‍💻 About Me
 
-🏢 **Executive Data Analyst** @ Medfuture Healthcare  
 📍 Malabe, Sri Lanka 🇱🇰  
-🎓 BSc (Hons) IT — SLIIT (GPA 3.1/4.0)  
-💼 Deloitte → Nawaloka Hospitals → Medfuture  
+🎓 BSc (Hons) IT — SLIIT 
+
 
 <br>
 
