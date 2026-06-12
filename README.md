@@ -1,10 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kavinga%20Aluvihare&fontSize=65&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=BI%20%26%20Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descSize=17&descAlignY=60&descColor=c9d1f5)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=c9d1f5&center=true&vCenter=true&width=700&lines=+;+;+" height="20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B8FF7&center=true&vCenter=true&width=600&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Looker+Studio;Building+Dashboards+that+Drive+Decisions;Healthcare+%7C+Consulting+%7C+Analytics)](https://git.io/typing-svg)
+# 👋 Hi, I'm Kavinga Aluvihare
 
-<img src="https://komarev.com/ghpvc/?username=kavinga17&label=Profile+Views&color=7B8FF7&style=flat" alt="profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B8FF7&center=true&vCenter=true&width=650&lines=BI+%26+Data+Analyst+%7C+Power+BI+Developer;SQL+Expert+%7C+Python+Analyst;Healthcare+%7C+Consulting+%7C+Analytics;Turning+Raw+Data+into+Real+Decisions+📈" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kavinga17&label=Profile+Views&color=7B8FF7&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kavinga17)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavingaaluvihare2001@gmail.com)
 
 </div>
 
@@ -15,8 +21,8 @@
 ### 👨‍💻 About Me
 
 🏢 **Executive Data Analyst** @ Medfuture Healthcare  
-📍 Malabe, Sri Lanka  
-🎓 BSc (Hons) IT — SLIIT (GPA 3.1/4.0)  
+📍 Malabe, Sri Lanka 🇱🇰  
+🎓 BSc (Hons) IT — SLIIT  
 💼 Deloitte → Nawaloka Hospitals → Medfuture  
 
 <br>
@@ -24,7 +30,7 @@
 🔹 Building **live Power BI dashboards** with API integrations  
 🔹 Writing complex **SQL** for healthcare data extraction  
 🔹 Automating data pipelines with **Python & Power Automate**  
-🔹 Delivering insights to stakeholders via **Looker Studio & Excel**  
+🔹 Delivering insights via **Looker Studio & Excel**  
 
 <br clear="right"/>
 
@@ -83,8 +89,10 @@
 
 <div align="center">
 
-[![SQL Analytics](https://github-readme-stats.vercel.app/api/pin/?username=kavinga17&repo=sql-data-analytics-project&theme=tokyonight&hide_border=true)](https://github.com/kavinga17/sql-data-analytics-project)
-[![Retail Analytics](https://github-readme-stats.vercel.app/api/pin/?username=kavinga17&repo=Retail-Customer-Behavior-Shopping-Trends&theme=tokyonight&hide_border=true)](https://github.com/kavinga17)
+> 🔗 Check out my pinned repositories below for SQL analytics and data projects
+
+[![SQL Analytics Repo](https://img.shields.io/badge/📂%20SQL%20Data%20Analytics%20Project-Visit%20Repo-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/kavinga17?tab=repositories)
+[![Retail Analytics Repo](https://img.shields.io/badge/📂%20Retail%20Customer%20Behavior-Visit%20Repo-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kavinga17?tab=repositories)
 
 </div>
 
@@ -109,7 +117,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&margin-w=8&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kavinga17&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -127,6 +135,8 @@
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-</div>
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+
+</div>
